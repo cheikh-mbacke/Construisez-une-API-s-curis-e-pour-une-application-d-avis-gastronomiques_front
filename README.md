@@ -1,5 +1,9 @@
 # Angular Project
 
+### Aperçu de l'application
+
+![Aperçu de l'application](./overview.png)
+
 ## Prérequis
 
 * Node.js version ^12.20.2, ^14.15.0 ou ^16.10.0
