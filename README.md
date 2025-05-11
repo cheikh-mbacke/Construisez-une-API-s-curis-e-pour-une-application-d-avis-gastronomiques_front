@@ -12,16 +12,14 @@
 1. Cloner le dépôt :
 
    ```bash
-   git clone <URL_DU_DEPOT>
-   cd <NOM_DU_PROJET>
+   git clone https://github.com/cheikh-mbacke/Construisez-une-API-s-curis-e-pour-une-application-d-avis-gastronomiques_front.git
+   cd Construisez-une-API-s-curis-e-pour-une-application-d-avis-gastronomiques_front
    ```
 
 2. Installer les dépendances :
 
    ```bash
    npm install
-   # ou
-   yarn install
    ```
 
 ## Lancer le projet en développement
