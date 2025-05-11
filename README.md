@@ -1,6 +1,4 @@
-# Angular Project
-
-### Aperçu de l'application
+# Backend - Construisez une API sécurisée pour une application d'avis gastronomiques
 
 ![Aperçu de l'application](./overview.png)
 
