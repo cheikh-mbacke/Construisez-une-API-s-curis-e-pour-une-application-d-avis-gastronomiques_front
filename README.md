@@ -1,4 +1,4 @@
-# Backend - Construisez une API sécurisée pour une application d'avis gastronomiques
+# Construisez une API sécurisée pour une application d'avis gastronomiques
 
 ![Aperçu de l'application](./overview.png)
 
